@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Mengqi Zhang (张孟奇), a tenure-track assistant professor in the [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/). 
-I am a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm). Before that, I got my Ph.D. degree from the Institute of Automation, 
-Chinese Academy of Sciences (CASIA) and University of Chinese Academy Sciences (UCAS), under the supervision of Professor 
+Hi! I am Mengqi Zhang (张孟奇), a tenure-track assistant professor in the [School of Computer Science and Technology of Shandong University](https://www.cs.sdu.edu.cn/),
+and a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm). Before that, I got my Ph.D. degree from the Institute of Automation, 
+Chinese Academy of Sciences (CASIA) and University of Chinese Academy of Sciences (UCAS), under the supervision of Professor 
 [Liang Wang](https://scholar.google.com.hk/citations?user=8kzzUboAAAAJ&hl=zh-CN), and co-advised by 
 Associate Professors [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN) and 
 [Qiang Liu](https://scholar.google.com.hk/citations?user=D-lKLcMAAAAJ&hl=zh-CN). 
