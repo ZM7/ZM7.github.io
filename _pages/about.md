@@ -17,7 +17,7 @@ Associate Professors [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6
 
 My research interests focus on **Complex Dynamic Graph Learning, Large Language Model (Model Edit), Recommender Systems, 
 and Temporal Knowledge Graphs**. Feel free to reach out if you're interested in learning more about my work 
-or exploring potential collaborations. 
+or exploring potential collaborations ([mengqi.zhang [at] sdu [dot] edu [dot] cn](mailto:mengqi.zhang@sdu.edu.cn)). 
 
 Selected Publications
 ------
