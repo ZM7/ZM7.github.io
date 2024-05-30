@@ -15,9 +15,9 @@ Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences (CASI
 Associate Professors [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN) and 
 [Qiang Liu](https://scholar.google.com.hk/citations?user=D-lKLcMAAAAJ&hl=zh-CN). 
 
-My research interests focus on **Complex Dynamic Graph Learning, Large Language Model (Model Edit), Recommender Systems, 
-and Temporal Knowledge Graphs**. Feel free to reach out if you're interested in learning more about my work 
+My research interests focus on **Large Language Models (Knowledge Edit, Retrieval-Augmented Generation), Recommender Systems, Temporal Knowledge Graphs, and Complex Dynamic Graph Learning**. Feel free to reach out if you're interested in learning more about my work 
 or exploring potential collaborations ([mengqi.zhang [at] sdu [dot] edu [dot] cn](mailto:mengqi.zhang@sdu.edu.cn)). 
+
 
 Selected Publications
 ------
