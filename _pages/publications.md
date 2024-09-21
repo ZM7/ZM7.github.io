@@ -7,7 +7,7 @@ author_profile: true
 
 1. Knowledge Graph Enhanced Large Language Model Editing.<br>
    *EMNLP 2024. (CCF-B)* <br>
-   **Mengqi Zhang** *, Xiaotiao Ye *, Qiang Liu, Pengjie Ren, Shu Wu, and Zhumin Chen.
+   **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Pengjie Ren, Shu Wu, and Zhumin Chen.
 2. Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning.<br>
    *ACL 2024.* (CCF-A) <br>
    Pengjie Ren, Chengshun Shi, Shiguang Wu, **Mengqi Zhang**, Zhaochun Ren, Maarten de Rijke, Zhumin Chen, Jiahuan Pei.

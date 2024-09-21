@@ -23,7 +23,7 @@ Selected Publications
 ------
 1. Knowledge Graph Enhanced Large Language Model Editing.<br>
    *EMNLP 2024. (CCF-B)* <br>
-   **Mengqi Zhang** *, Xiaotiao Ye *, Qiang Liu, Pengjie Ren, Shu Wu, and Zhumin Chen.
+   **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Pengjie Ren, Shu Wu, and Zhumin Chen.
 2. Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning.<br>
    *WWW 2023. (CCF-A)* <br>
    **Mengqi Zhang**, Yuwei Xia, Qiang Liu, Shu Wu, and Liang Wang.
