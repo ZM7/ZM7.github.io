@@ -12,7 +12,7 @@ Hi! I am Mengqi Zhang (张孟奇), a tenure-track assistant professor in the [Sc
 and also a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm). Prior to this position, I earned my 
 Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) and University of Chinese Academy of Sciences (UCAS), under the supervision of Professor 
 [Liang Wang](https://scholar.google.com.hk/citations?user=8kzzUboAAAAJ&hl=zh-CN), and co-advised by 
-Associate Professors [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN) and 
+Professors [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN) and 
 [Qiang Liu](https://scholar.google.com.hk/citations?user=D-lKLcMAAAAJ&hl=zh-CN). 
 
 My research interests focus on **Large Language Models (Knowledge Edit, Retrieval-Augmented Generation), Recommender Systems, Temporal Knowledge Graphs, and Complex Dynamic Graph Learning**. Feel free to reach out if you're interested in learning more about my work 
