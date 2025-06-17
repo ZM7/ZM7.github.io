@@ -15,20 +15,31 @@ Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences (CASI
 Professors [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN) and 
 [Qiang Liu](https://scholar.google.com.hk/citations?user=D-lKLcMAAAAJ&hl=zh-CN). 
 
-My research interests focus on **Large Language Models (Knowledge Edit, Retrieval-Augmented Generation), Recommender Systems, Temporal Knowledge Graphs, and Complex Dynamic Graph Learning**. Feel free to reach out if you're interested in learning more about my work 
+我的研究兴趣主要聚焦于大语言模型的可信性与可控性，包括知识更新、可解释性分析与模型安全性等关键问题，涉及任务如知识编辑、遗忘学习以及检索增强生成等。
+此外，我也曾在动态知识图谱推理与推荐系统方向开展过相关研究。**有兴趣保研、考研或本科生科研助理的，欢迎联系。** My research primarily focuses on the **trustworthiness and controllability of large language models (LLMs)**, 
+with particular interests in **knowledge updating, interpretability, and model safety**, including tasks such as **knowledge editing, unlearning, and retrieval-augmented generation**. 
+I have also conducted research in temporal knowledge graph reasoning and recommender system. Feel free to reach out if you're interested in learning more about my work 
 or exploring potential collaborations ([mengqi.zhang [at] sdu [dot] edu [dot] cn](mailto:mengqi.zhang@sdu.edu.cn)). 
 
 
 Preprint
 ------
-1. Enhancing multi-hop reasoning through knowledge erasure in large language model editing.<br>
+1. Disentangling Knowledge Representations for Large Language Model Editing. <br>
+   **Mengqi Zhang** *, Zisheng Zhou *, Xiaotian Ye, Qiang Liu, Zhaochun Ren, Zhumin Chen, Pengjie Ren
+2. KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing.<br>
    **Mengqi Zhang** *, Bowen Fang *, Qiang Liu, Pengjie Ren, Shu Wu, Zhumin Chen, Liang Wang
+3. LLM Unlearning Should Be Form-Independent. <br>
+   Xiaotian Ye, **Mengqi Zhang**, Shu Wu
+4. Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms. <br>
+   Xiaotian Ye, **Mengqi Zhang**, Shu Wu
+5. UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets. <br>
+   Wenyu Wang, **Mengqi Zhang**, Xiaotian Ye, Zhaochun Ren, Pengjie Ren, Zhumin Chen
 
 
 Selected Publications 
 ------
 1. Uncovering Overfitting in Large Language Model Editing.<br>
-   *ICLR 2025. (CAAI-A)* <br>
+   *ICLR 2025 Spotlight. (CAAI-A)* <br>
    **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Shu Wu, Pengjie Ren, Zhumin Chen
 2. ExcluIR: Exclusionary Neural Information Retrieval.<br>
    *AAAI 2025. (CCF-A)* <br>
@@ -87,10 +98,10 @@ Professional Services
 ------
 
 Conference Reviewer
-* KDD2022, AAAI2022, PAKDD2022, KDD2023
+* NeurIPS, ICLR, KDD, SIGIR, AAAI, ACL, EMNLP, etc.
 
 Journal Reviewer
-* IEEE TKDE, IEEE TBD, Neural Networks
+* IEEE TKDE, TOIS, IEEE TBD, Neural Networks, etc.
 
 Honors and Awards
 ------
