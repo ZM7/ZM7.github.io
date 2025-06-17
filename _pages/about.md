@@ -39,7 +39,7 @@ Preprint
 Selected Publications 
 ------
 1. Uncovering Overfitting in Large Language Model Editing.<br>
-   *ICLR 2025 Spotlight. (CAAI-A)* <br>
+   *ICLR 2025 Spotlight (Top 5.1%). (CAAI-A)* <br>
    **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Shu Wu, Pengjie Ren, Zhumin Chen
 2. ExcluIR: Exclusionary Neural Information Retrieval.<br>
    *AAAI 2025. (CCF-A)* <br>
