@@ -15,7 +15,7 @@ author_profile: true
    *SIGIR 2025. (CCF-A)* <br>
    Shiguang Wu, Zhaochun Ren, Xin Xin, Jiyuan Yang, **Mengqi Zhang**, Zhumin Chen, Maarten de Rijke, Pengjie Ren
 4. Contrastive Domain Adaptation with Test-Time Training for Out-of-Context News Detection. <br>
-   *Pattern Recognition. (CCF-B)* <br>
+   *Pattern Recognition 2025. (CCF-B)* <br>
    Yimeng Gu, **Mengqi Zhang**, Ignacio Castro, Shu Wu, Gareth Tyson
 5. Knowledge Graph Enhanced Large Language Model Editing.<br>
    *EMNLP 2024. (CCF-B)* <br>
@@ -30,7 +30,7 @@ author_profile: true
    *SIGIR 2024.* (CCF-A) <br>
    Shiguang Wu, Wenda Wei, **Mengqi Zhang**, Zhumin Chen, Jun Ma, Zhaochun Ren, Maarten de Rijke, Pengjie Ren.
 9. MetaTKG++: Learning evolving factor enhanced meta-knowledge for temporal knowledge graph reasoning.<br>
-   *Pattern Recognition* (CCF-B) <br>
+   *Pattern Recognition 2024.* (CCF-B) <br>
    Yuwei Xia, **Mengqi Zhang**, Qiang Liu, Liang Wang, Shu Wu, Xiaoyu Zhang.
 10. Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning.<br>
     *WWW 2023.* (CCF-A) <br>
