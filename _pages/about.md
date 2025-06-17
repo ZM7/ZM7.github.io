@@ -27,7 +27,7 @@ Preprint
 1. Disentangling Knowledge Representations for Large Language Model Editing. <br>
    **Mengqi Zhang** *, Zisheng Zhou *, Xiaotian Ye, Qiang Liu, Zhaochun Ren, Zhumin Chen, Pengjie Ren
 2. KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing.<br>
-   **Mengqi Zhang** *, Bowen Fang *, Qiang Liu, Pengjie Ren, Shu Wu, Zhumin Chen, Liang Wang
+   **Mengqi Zhang** *, Bowen Fang *, Qiang Liu, Xiaotian Ye, Pengjie Ren, Shu Wu, Zhumin Chen, Liang Wang
 3. LLM Unlearning Should Be Form-Independent. <br>
    Xiaotian Ye, **Mengqi Zhang**, Shu Wu
 4. Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms. <br>
