@@ -38,7 +38,7 @@ Selected Publications
    **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Shu Wu, Pengjie Ren, Zhumin Chen
 2. LLM Unlearning Should Be Form-Independent. <br>
    *IEEE S&P 2026. (CCF-A)* <br>
-   Xiaotian Ye, Mengqi Zhang, Shu Wu
+   Xiaotian Ye, **Mengqi Zhang** #, Shu Wu #
 3. KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing.<br>
    *Findings of EMNLP 2025. (CCF-B)* <br>
    **Mengqi Zhang** *, Bowen Fang *, Qiang Liu, Xiaotian Ye, Pengjie Ren, Shu Wu, Zhumin Chen, Liang Wang
