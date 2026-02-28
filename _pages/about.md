@@ -16,9 +16,6 @@ My research primarily focuses on the **trustworthiness and controllability of la
 **欢迎对大模型研究感兴趣的同学（保研、考研或本科生科研助理）通过邮件与我联系，也欢迎任何形式的学术探讨与合作！** Email: [mengqi.zhang [at] sdu [dot] edu [dot] cn](mailto:mengqi.zhang@sdu.edu.cn)
 
 
-Preprints
-
-
 Preprint
 ------
 1. Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse. <br>
