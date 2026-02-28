@@ -63,9 +63,6 @@ Selected Publications
 11. Dynamic Graph Neural Networks for Sequential Recommendation.<br>
     *IEEE Transactions on Knowledge and Data Engineering 2023. (CCF-A)*<br>
     **Mengqi Zhang**, Shu Wu, Xueli Yu, Qiang Liu, and Liang Wang.
-12. MetaTKG: Learning Evolutionary Meta-Knowledge for Temporal Knowledge Graph Reasoning.<br>
-    *EMNLP 2022. (CCF-B)* <br>
-    Yuwei Xia, **Mengqi Zhang**, Qiang Liu, Shu Wu, and Xiaoyu Zhang.
 13. Deep Contrastive Multiview Network Embedding.<br> 
     *CIKM 2022.(CCF-B)*<br>
     **Mengqi Zhang**, Yanqiao Zhu, Qiang Liu, Shu Wu, and Liang Wang.
