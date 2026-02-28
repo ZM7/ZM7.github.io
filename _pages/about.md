@@ -26,7 +26,8 @@ Preprint
 ------
 1. Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse. <br>
    Chi Zhang, **Mengqi Zhang** #, Xiaotian Ye, Runxi Cheng, Zisheng Zhou, Ying Zhou, Pengjie Ren, Zhumin Chen.
-
+2. Uncovering Context Reliance in Unstructured Knowledge Editing. <br>
+   Zisheng Zhou, **Mengqi Zhang**, Shiguang Wu, Xiaotian Ye, Chi Zhang, Zhumin Chen, Pengjie Ren.
 3. Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms. <br>
    Xiaotian Ye, **Mengqi Zhang**, Shu Wu
 
@@ -103,15 +104,17 @@ Experiences
 
 Professional Services
 ------
+ACL Rolling Area Chair
 
 Conference Reviewer
-* NeurIPS, ICLR, KDD, SIGIR, AAAI, ACL, EMNLP, etc.
+* NeurIPS, ICLR, ICML, KDD, SIGIR, AAAI, ACL, EMNLP, etc.
 
 Journal Reviewer
-* IEEE TKDE, TOIS, IEEE TBD, Neural Networks, etc.
+* IEEE TKDE, TOIS, Pattern Recognition, IEEE TBD, Neural Networks, etc.
 
 Honors and Awards
 ------
+* 2024 SIGIR最佳论文提名奖
 * 2023 CAS Presidential Scholarship (中国科学院院长奖)
 * 2023 Beijing Outstanding Graduate Student Awards (北京市优秀毕业生)
 * 2023 University of CAS Outstanding Graduate Student Awards (中国科学院大学优秀毕业生)
