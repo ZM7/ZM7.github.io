@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+*( * denotes equal contribution, # denotes corresponding author )*
 1. Disentangling Knowledge Representations for Large Language Model Editing. <br>
    *ICLR 2026. (CAAI-A)* <br>
    **Mengqi Zhang** *, Zisheng Zhou *, Xiaotian Ye, Qiang Liu, Zhaochun Ren, Zhumin Chen, Pengjie Ren

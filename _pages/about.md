@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Mengqi Zhang (张孟奇), a tenure-track assistant professor in the [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/),
-and also a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm). Prior to this position, I earned my 
-Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) and University of Chinese Academy of Sciences (UCAS), under the supervision of Professor 
-[Liang Wang](https://scholar.google.com.hk/citations?user=8kzzUboAAAAJ&hl=zh-CN), and co-advised by 
-Professors [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN) and 
-[Qiang Liu](https://scholar.google.com.hk/citations?user=D-lKLcMAAAAJ&hl=zh-CN). 
+Hi! I am Mengqi Zhang (张孟奇), a tenure-track Assistant Professor in the [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/), and a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm). Prior to this position, I earned my Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) and the University of Chinese Academy of Sciences (UCAS), under the supervision of Prof. [Liang Wang](https://scholar.google.com.hk/citations?user=8kzzUboAAAAJ&hl=zh-CN), and co-advised by Prof. [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN) and Prof. [Qiang Liu](https://scholar.google.com.hk/citations?user=D-lKLcMAAAAJ&hl=zh-CN). 
 
-我的研究兴趣主要聚焦于大语言模型的可信性与可控性，包括知识更新、可解释性分析与模型安全性等关键问题，涉及任务如知识编辑、遗忘学习以及检索增强生成等。
-此外，我也曾在动态知识图谱推理与推荐系统方向开展过相关研究。**有兴趣保研、考研或本科生科研助理的，欢迎联系。** My research primarily focuses on the **trustworthiness and controllability of large language models (LLMs)**, 
-with particular interests in **knowledge updating, interpretability, and model safety**, including tasks such as **knowledge editing, unlearning, and retrieval-augmented generation**. 
-I have also conducted research in temporal knowledge graph reasoning and recommender system. Feel free to reach out if you're interested in learning more about my work 
-or exploring potential collaborations ([mengqi.zhang [at] sdu [dot] edu [dot] cn](mailto:mengqi.zhang@sdu.edu.cn)). 
+My research primarily focuses on the **trustworthiness and controllability of large language models (LLMs)**, with particular interests in **knowledge updating, interpretability, and model safety**, including tasks such as **knowledge editing, machine unlearning, and retrieval-augmented generation (RAG)**. Previously, I have also conducted extensive research in temporal knowledge graph reasoning and recommender systems. 
+
+**招生信息 (Recruitment):** I am always looking for self-motivated students to work on LLMs. Feel free to reach out if you are interested in pursuing a Master's degree, a Ph.D., an undergraduate research assistant position, or exploring potential collaborations. 
+**欢迎对大模型研究感兴趣的同学（保研、考研或本科生科研助理）通过邮件与我联系，也欢迎任何形式的学术探讨与合作！** Email: [mengqi.zhang [at] sdu [dot] edu [dot] cn](mailto:mengqi.zhang@sdu.edu.cn)
+
+
+Preprints
 
 
 Preprint
@@ -32,8 +29,10 @@ Preprint
    Xiaotian Ye, **Mengqi Zhang**, Shu Wu
 
 
-Selected Publications 
+Selected Publications
 ------
+*( * denotes equal contribution, # denotes corresponding author )*
+
 1. Disentangling Knowledge Representations for Large Language Model Editing. <br>
    *ICLR 2026. (CAAI-A)* <br>
    **Mengqi Zhang** *, Zisheng Zhou *, Xiaotian Ye, Qiang Liu, Zhaochun Ren, Zhumin Chen, Pengjie Ren
@@ -56,7 +55,7 @@ Selected Publications
    *EMNLP 2024. (CCF-B)* <br>
    **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Pengjie Ren, Shu Wu, and Zhumin Chen.
 8. Generative Retrieval as Multi-Vector Dense Retrieval.<br>
-   *SIGIR 2024. (CCF-A)* **Honorable Mentions (最佳论文提名奖)** <br> 
+   *SIGIR 2024. (CCF-A)* **Honorable Mention (最佳论文提名奖)** <br> 
    Shiguang Wu, Wenda Wei, **Mengqi Zhang**, Zhumin Chen, Jun Ma, Zhaochun Ren, Maarten de Rijke, Pengjie Ren.
 9. Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning.<br>
    *WWW 2023. (CCF-A)* <br> 
@@ -88,7 +87,7 @@ Experiences
 [2023.07 -- Present] &nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor 
 
 
-**School of Artificial Intelligence, University of Chinese Academy Sciences**  
+**School of Artificial Intelligence, University of Chinese Academy of Sciences**  
 **Institute of Automation, Chinese Academy of Sciences**  
 [2019.09 -- 2023.06] &nbsp;&nbsp;&nbsp;&nbsp;  Ph.D in Computer Application Technology  
 *Advisor: Professor Liang Wang*  
@@ -114,7 +113,7 @@ Journal Reviewer
 
 Honors and Awards
 ------
-* 2024 SIGIR最佳论文提名奖
+* 2024 IGIR Honorable Mention (最佳论文提名奖)
 * 2023 CAS Presidential Scholarship (中国科学院院长奖)
 * 2023 Beijing Outstanding Graduate Student Awards (北京市优秀毕业生)
 * 2023 University of CAS Outstanding Graduate Student Awards (中国科学院大学优秀毕业生)
