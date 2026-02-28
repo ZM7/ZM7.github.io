@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* 2024 SIGIR Honorable Mention (最佳论文提名奖)
 * 2023 CAS Presidential Scholarship (中国科学院院长奖)
 * 2023 Beijing Outstanding Graduate Student Awards (北京市优秀毕业生)
 * 2023 University of CAS Outstanding Graduate Student Awards (中国科学院大学优秀毕业生)

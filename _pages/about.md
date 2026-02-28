@@ -35,7 +35,7 @@ Selected Publications
    **Mengqi Zhang** *, Zisheng Zhou *, Xiaotian Ye, Qiang Liu, Zhaochun Ren, Zhumin Chen, Pengjie Ren
 2. LLM Unlearning Should Be Form-Independent. <br>
    *IEEE S&P 2026. (CCF-A)* <br>
-   Xiaotian Ye, **Mengqi Zhang** #, Shu Wu #
+   Xiaotian Ye, **Mengqi Zhang** #, Shu Wu
 3. Uncovering Overfitting in Large Language Model Editing.<br>
    *ICLR 2025 Spotlight (Top 5.1%). (CAAI-A)* <br>
    **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Shu Wu, Pengjie Ren, Zhumin Chen
@@ -107,7 +107,7 @@ Journal Reviewer
 
 Honors and Awards
 ------
-* 2024 IGIR Honorable Mention (最佳论文提名奖)
+* 2024 SIGIR Honorable Mention (最佳论文提名奖)
 * 2023 CAS Presidential Scholarship (中国科学院院长奖)
 * 2023 Beijing Outstanding Graduate Student Awards (北京市优秀毕业生)
 * 2023 University of CAS Outstanding Graduate Student Awards (中国科学院大学优秀毕业生)
