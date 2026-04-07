@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Mengqi Zhang (张孟奇), a tenure-track Assistant Professor in the [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/), and a member of the [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm). Prior to this position, I earned my Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) and the University of Chinese Academy of Sciences (UCAS), under the supervision of Prof. [Liang Wang](https://scholar.google.com.hk/citations?user=8kzzUboAAAAJ&hl=zh-CN), and co-advised by Prof. [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN) and Prof. [Qiang Liu](https://scholar.google.com.hk/citations?user=D-lKLcMAAAAJ&hl=zh-CN). 
+Hi! I am Mengqi Zhang (张孟奇), a tenure-track Assistant Professor in the [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/), and a member of the [General Artificial Intelligence Laboratory](https://gail.sdu.edu.cn/). Prior to this position, I earned my Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) and the University of Chinese Academy of Sciences (UCAS), under the supervision of Prof. [Liang Wang](https://scholar.google.com.hk/citations?user=8kzzUboAAAAJ&hl=zh-CN), and co-advised by Prof. [Shu Wu](https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN) and Prof. [Qiang Liu](https://scholar.google.com.hk/citations?user=D-lKLcMAAAAJ&hl=zh-CN). 
 
 My research primarily focuses on the **trustworthiness and controllability of large language models (LLMs)**, with particular interests in **knowledge updating, interpretability, and model safety**, including tasks such as **knowledge editing, machine unlearning, and retrieval-augmented generation (RAG)**. Previously, I have also conducted extensive research in temporal knowledge graph reasoning and recommender systems. 
 
@@ -54,7 +54,7 @@ Selected Publications
    *EMNLP 2024. (CCF-B)* <br>
    **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Pengjie Ren, Shu Wu, and Zhumin Chen.
 9. Generative Retrieval as Multi-Vector Dense Retrieval.<br>
-   *SIGIR 2024. (CCF-A)* **Honorable Mention (最佳论文提名奖)** <br> 
+   *SIGIR 2024. (CCF-A)* **Best Paper Honorable Mention (最佳论文提名奖)** <br> 
    Shiguang Wu, Wenda Wei, **Mengqi Zhang**, Zhumin Chen, Jun Ma, Zhaochun Ren, Maarten de Rijke, Pengjie Ren.
 10. Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning.<br>
     *WWW 2023. (CCF-A)* <br> 
@@ -109,7 +109,7 @@ Journal Reviewer
 
 Honors and Awards
 ------
-* 2024 SIGIR Honorable Mention (最佳论文提名奖)
+* 2024 SIGIR Best Paper Honorable Mention (最佳论文提名奖)
 * 2023 CAS Presidential Scholarship (中国科学院院长奖)
 * 2023 Beijing Outstanding Graduate Student Awards (北京市优秀毕业生)
 * 2023 University of CAS Outstanding Graduate Student Awards (中国科学院大学优秀毕业生)
