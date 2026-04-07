@@ -18,11 +18,10 @@ My research primarily focuses on the **trustworthiness and controllability of la
 
 Preprint
 ------
-1. Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse. <br>
-   Chi Zhang, **Mengqi Zhang** #, Xiaotian Ye, Runxi Cheng, Zisheng Zhou, Ying Zhou, Pengjie Ren, Zhumin Chen.
-2. Uncovering Context Reliance in Unstructured Knowledge Editing. <br>
+
+1. Uncovering Context Reliance in Unstructured Knowledge Editing. <br>
    Zisheng Zhou, **Mengqi Zhang**, Shiguang Wu, Xiaotian Ye, Chi Zhang, Zhumin Chen, Pengjie Ren.
-3. Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms. <br>
+2. Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms. <br>
    Xiaotian Ye, **Mengqi Zhang**, Shu Wu
 
 
@@ -31,36 +30,39 @@ Selected Publications
 *( * denotes equal contribution, # denotes corresponding author )*
 
 1. Disentangling Knowledge Representations for Large Language Model Editing. <br>
-   *ICLR 2026. (CAAI-A)* <br>
+   *ICLR 2026. (CCF-A)* <br>
    **Mengqi Zhang** *, Zisheng Zhou *, Xiaotian Ye, Qiang Liu, Zhaochun Ren, Zhumin Chen, Pengjie Ren
-2. LLM Unlearning Should Be Form-Independent. <br>
+2. Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse. <br>
+   *ACL 2026. (CCF-A)* <br>
+   Chi Zhang, **Mengqi Zhang** #, Xiaotian Ye, Runxi Cheng, Zisheng Zhou, Ying Zhou, Pengjie Ren, Zhumin Chen.
+3. LLM Unlearning Should Be Form-Independent. <br>
    *IEEE S&P 2026. (CCF-A)* <br>
    Xiaotian Ye, **Mengqi Zhang** #, Shu Wu
-3. Uncovering Overfitting in Large Language Model Editing.<br>
-   *ICLR 2025 Spotlight (Top 5.1%). (CAAI-A)* <br>
+4. Uncovering Overfitting in Large Language Model Editing.<br>
+   *ICLR 2025 Spotlight (Top 5.1%). (CCF-A)* <br>
    **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Shu Wu, Pengjie Ren, Zhumin Chen
-4. KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing.<br>
+5. KELE: Residual Knowledge Erasure for Enhanced Multi-hop Reasoning in Knowledge Editing.<br>
    *Findings of EMNLP 2025. (CCF-B)* <br>
    **Mengqi Zhang** *, Bowen Fang *, Qiang Liu, Xiaotian Ye, Pengjie Ren, Shu Wu, Zhumin Chen, Liang Wang
-5. UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets. <br>
+6. UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets. <br>
    *Findings of EMNLP 2025. (CCF-B)* <br>
    Wenyu Wang, **Mengqi Zhang** #, Xiaotian Ye, Zhaochun Ren, Pengjie Ren, Zhumin Chen
-6. ExcluIR: Exclusionary Neural Information Retrieval.<br>
+7. ExcluIR: Exclusionary Neural Information Retrieval.<br>
    *AAAI 2025. (CCF-A)* <br>
    Wenhao Zhang, **Mengqi Zhang** #, Shiguang Wu, Jiahuan Pei, Zhaochun Ren, Maarten de Rijke, Zhumin Chen, Pengjie Ren
-7. Knowledge Graph Enhanced Large Language Model Editing.<br>
+8. Knowledge Graph Enhanced Large Language Model Editing.<br>
    *EMNLP 2024. (CCF-B)* <br>
    **Mengqi Zhang** *, Xiaotian Ye *, Qiang Liu, Pengjie Ren, Shu Wu, and Zhumin Chen.
-8. Generative Retrieval as Multi-Vector Dense Retrieval.<br>
+9. Generative Retrieval as Multi-Vector Dense Retrieval.<br>
    *SIGIR 2024. (CCF-A)* **Honorable Mention (最佳论文提名奖)** <br> 
    Shiguang Wu, Wenda Wei, **Mengqi Zhang**, Zhumin Chen, Jun Ma, Zhaochun Ren, Maarten de Rijke, Pengjie Ren.
-9. Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning.<br>
-   *WWW 2023. (CCF-A)* <br> 
-   **Mengqi Zhang**, Yuwei Xia, Qiang Liu, Shu Wu, and Liang Wang.
-10. Learning Latent Relations for Temporal Knowledge Graph Reasoning.<br>
+10. Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning.<br>
+    *WWW 2023. (CCF-A)* <br> 
+    **Mengqi Zhang**, Yuwei Xia, Qiang Liu, Shu Wu, and Liang Wang.
+11. Learning Latent Relations for Temporal Knowledge Graph Reasoning.<br>
     *ACL 2023. (CCF-A)* <br>
     **Mengqi Zhang**, Yuwei Xia, Qiang Liu, Shu Wu, and Liang Wang. 
-11. Dynamic Graph Neural Networks for Sequential Recommendation.<br>
+12. Dynamic Graph Neural Networks for Sequential Recommendation.<br>
     *IEEE Transactions on Knowledge and Data Engineering 2023. (CCF-A)*<br>
     **Mengqi Zhang**, Shu Wu, Xueli Yu, Qiang Liu, and Liang Wang.
 13. Deep Contrastive Multiview Network Embedding.<br> 
