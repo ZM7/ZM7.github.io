@@ -14,14 +14,14 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
+
   - title: "Experiences"
-    url: /cv/
+    url: /#experiences
 
   - title: "Professional Services"
-    url: /services/
-
-  - title: "Honors and Awards"
-    url: /award/
+    url: /#professional-services
 
 #  - title: "Portfolio"
 #    url: /portfolio/
