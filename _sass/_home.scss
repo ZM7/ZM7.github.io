@@ -284,7 +284,7 @@ $home-container: 1016px;
 }
 
 .hero-snapshot {
-  padding: 0.58rem 0.74rem;
+  padding: 0.54rem 0.7rem;
   border-left: 3px solid #3d6f9f;
   border-radius: 0 8px 8px 0;
   background: rgba(255, 255, 255, 0.64);
@@ -313,9 +313,9 @@ $home-container: 1016px;
 .scholar-stats {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.36rem;
-  margin-top: 0.56rem;
-  padding-top: 0.52rem;
+  gap: 0.32rem;
+  margin-top: 0.48rem;
+  padding-top: 0.46rem;
   border-top: 1px solid rgba(61, 111, 159, 0.16);
 }
 
@@ -339,7 +339,7 @@ $home-container: 1016px;
 .scholar-stats span {
   display: block;
   min-width: 0;
-  padding: 0.34rem 0.28rem;
+  padding: 0.28rem 0.24rem;
   text-align: center;
   border: 1px solid rgba(185, 214, 221, 0.82);
   border-radius: 7px;
@@ -349,14 +349,14 @@ $home-container: 1016px;
 .scholar-stats strong {
   display: block;
   color: #14212b;
-  font-size: 0.88rem;
+  font-size: 0.82rem;
   font-weight: 850;
   line-height: 1.05;
 }
 
 .scholar-stats em {
   display: block;
-  margin-top: 0.13rem;
+  margin-top: 0.1rem;
   color: #5a6a75;
   font-size: 0.58rem;
   font-style: normal;

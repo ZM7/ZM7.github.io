@@ -24,8 +24,7 @@ redirect_from:
       </div>
     </div>
     <div class="hero-snapshot" aria-label="Profile summary">
-      <p><span>School</span> Computer Science and Technology, SDU</p>
-      <p><span>Lab</span> General Artificial Intelligence Laboratory</p>
+      <p><span>School</span> Computer Science and Technology, Shandong University</p>
       <p><span>Ph.D.</span> CASIA, 2023</p>
       {% assign scholar = site.data.scholar %}
       <div class="scholar-stats" aria-label="Google Scholar metrics">
