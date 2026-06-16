@@ -27,6 +27,13 @@ redirect_from:
       <p><span>School</span> Computer Science and Technology, SDU</p>
       <p><span>Lab</span> General Artificial Intelligence Laboratory</p>
       <p><span>Ph.D.</span> CASIA, 2023</p>
+      {% assign scholar = site.data.scholar %}
+      <div class="scholar-stats" aria-label="Google Scholar metrics">
+        <a href="{{ scholar.source | default: 'https://scholar.google.com/citations?user=8-tCnnUAAAAJ&hl=en' }}">Google Scholar Metrics</a>
+        <span><strong>{{ scholar.citations | default: "—" }}</strong><em>Citations</em></span>
+        <span><strong>{{ scholar.h_index | default: "—" }}</strong><em>h-index</em></span>
+        <span><strong>{{ scholar.i10_index | default: "—" }}</strong><em>i10-index</em></span>
+      </div>
     </div>
   </div>
 </section>
@@ -92,7 +99,7 @@ Preprint
 
 </div>
 
-<h2 id="publications">Selected Publications</h2>
+<h2 id="publications">Selected Publications <span class="section-link-note">Full list: <a href="https://scholar.google.com.hk/citations?user=8-tCnnUAAAAJ&hl=zh-CN">Google Scholar</a> or <a href="/publications/">Publications</a></span></h2>
 
 <p class="publication-note"><span>*</span> equal contribution &nbsp;&nbsp; <span>#</span> corresponding author</p>
 

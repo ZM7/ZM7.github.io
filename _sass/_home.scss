@@ -57,6 +57,30 @@ $home-container: 1016px;
   }
 }
 
+.section-link-note {
+  display: inline-flex;
+  gap: 0.22rem;
+  align-items: baseline;
+  margin-left: 0.55rem;
+  color: #6b7a84;
+  font-size: 0.52em;
+  font-weight: 650;
+  line-height: 1.3;
+  vertical-align: middle;
+}
+
+.section-link-note a {
+  color: #2f5f8f;
+  font-weight: 800;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(47, 95, 143, 0.28);
+}
+
+.section-link-note a:hover {
+  color: #234d77;
+  border-bottom-color: #234d77;
+}
+
 .page__inner-wrap > header {
   display: none;
 }
@@ -284,6 +308,60 @@ $home-container: 1016px;
 .hero-snapshot span {
   color: #294f6f;
   font-weight: 800;
+}
+
+.scholar-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.36rem;
+  margin-top: 0.56rem;
+  padding-top: 0.52rem;
+  border-top: 1px solid rgba(61, 111, 159, 0.16);
+}
+
+.scholar-stats a {
+  grid-column: 1 / -1;
+  width: max-content;
+  max-width: 100%;
+  color: #294f6f;
+  font-size: 0.66rem;
+  font-weight: 800;
+  line-height: 1.2;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(47, 95, 143, 0.24);
+}
+
+.scholar-stats a:hover {
+  color: #1f466e;
+  border-bottom-color: #1f466e;
+}
+
+.scholar-stats span {
+  display: block;
+  min-width: 0;
+  padding: 0.34rem 0.28rem;
+  text-align: center;
+  border: 1px solid rgba(185, 214, 221, 0.82);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.scholar-stats strong {
+  display: block;
+  color: #14212b;
+  font-size: 0.88rem;
+  font-weight: 850;
+  line-height: 1.05;
+}
+
+.scholar-stats em {
+  display: block;
+  margin-top: 0.13rem;
+  color: #5a6a75;
+  font-size: 0.58rem;
+  font-style: normal;
+  font-weight: 750;
+  line-height: 1.15;
 }
 
 .home-actions {
