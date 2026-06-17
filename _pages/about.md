@@ -74,25 +74,21 @@ Preprints
 
 <article class="preprint-item">
   <h3>On the Hidden Costs of Counterfactual Knowledge Training in LLM Unlearning.</h3>
-  <p class="pub-meta"><span class="pub-venue">Preprint</span><span class="pub-rank">LLM Unlearning</span></p>
   <p class="pub-authors">Xiaotian Ye, Xiaohan Wang, <strong>Mengqi Zhang</strong>, Shu Wu</p>
 </article>
 
 <article class="preprint-item">
   <h3>Uncovering Entity Identity Confusion in Multimodal Knowledge Editing.</h3>
-  <p class="pub-meta"><span class="pub-venue">Preprint</span><span class="pub-rank">Multimodal Knowledge Editing</span></p>
   <p class="pub-authors">Shu Wu, Xiaotian Ye, Xinyu Mou, Dongsheng Liu, Xiaohan Wang, <strong>Mengqi Zhang</strong></p>
 </article>
 
 <article class="preprint-item">
   <h3>Uncovering Context Reliance in Unstructured Knowledge Editing.</h3>
-  <p class="pub-meta"><span class="pub-venue">Preprint</span><span class="pub-rank">LLM Knowledge Editing</span></p>
   <p class="pub-authors">Zisheng Zhou, <strong>Mengqi Zhang</strong>, Shiguang Wu, Xiaotian Ye, Chi Zhang, Zhumin Chen, Pengjie Ren.</p>
 </article>
 
 <article class="preprint-item">
   <h3>Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms.</h3>
-  <p class="pub-meta"><span class="pub-venue">Preprint</span><span class="pub-rank">LLM Knowledge</span></p>
   <p class="pub-authors">Xiaotian Ye, <strong>Mengqi Zhang</strong>, Shu Wu</p>
 </article>
 

@@ -577,7 +577,7 @@ $home-container: 1016px;
 .preprint-item {
   position: relative;
   margin: 0 0 0.72rem;
-  padding: 0.78rem 1rem 0.78rem 2.75rem;
+  padding: 0.78rem 1rem 0.78rem 2.25rem;
   border: 1px solid #dfe8ee;
   border-radius: 8px;
   background:
@@ -588,23 +588,19 @@ $home-container: 1016px;
 
 .preprint-item:before {
   counter-increment: preprint-list;
-  content: counter(preprint-list);
+  content: counter(preprint-list, decimal-leading-zero);
   position: absolute;
-  top: 0.82rem;
-  left: 0.85rem;
-  display: grid;
-  width: 1.38rem;
-  height: 1.38rem;
-  place-items: center;
-  color: #2f5f8f;
-  font-size: 0.72rem;
-  font-weight: 800;
-  border-radius: 50%;
-  background: #eaf3fa;
+  top: 0.84rem;
+  left: 0.9rem;
+  color: #8aa9bd;
+  font-size: 0.68rem;
+  font-weight: 650;
+  letter-spacing: 0;
+  line-height: 1.2;
 }
 
 .preprint-item h3 {
-  margin: 0 0 0.38rem;
+  margin: 0 0 0.5rem;
   color: #14212b;
   font-size: 0.9rem;
   font-weight: 700;
@@ -659,7 +655,7 @@ $home-container: 1016px;
 .publication-item {
   position: relative;
   margin: 0 0 0.9rem;
-  padding: 0.9rem 1rem 0.9rem 2.95rem;
+  padding: 0.9rem 1rem 0.9rem 2.35rem;
   border: 1px solid #dfe8ee;
   border-radius: 8px;
   background: #fff;
@@ -668,20 +664,15 @@ $home-container: 1016px;
 
 .publication-item:before {
   counter-increment: publication-list;
-  content: counter(publication-list);
+  content: counter(publication-list, decimal-leading-zero);
   position: absolute;
-  top: 0.9rem;
-  left: 0.9rem;
-  display: grid;
-  width: 1.45rem;
-  height: 1.45rem;
-  place-items: center;
-  color: #294f6f;
-  font-size: 0.74rem;
-  font-weight: 800;
-  border: 1px solid #b9d6dd;
-  border-radius: 50%;
-  background: #eef5fb;
+  top: 0.94rem;
+  left: 0.92rem;
+  color: #8aa9bd;
+  font-size: 0.68rem;
+  font-weight: 650;
+  letter-spacing: 0;
+  line-height: 1.2;
 }
 
 .publication-item h3 {
