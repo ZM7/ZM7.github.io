@@ -41,7 +41,7 @@ redirect_from:
   <p>
     I am <strong>Mengqi Zhang (张孟奇)</strong>, an Assistant Professor and M.Sc. Supervisor in the
     <a href="https://www.cs.sdu.edu.cn/">School of Computer Science and Technology, Shandong University</a>,
-    and a member of the <a href="https://gail.sdu.edu.cn/">General Artificial Intelligence Laboratory</a>. I received my Ph.D. degree in 2023 from the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences (CASIA), under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?user=8kzzUboAAAAJ&hl=zh-CN">Liang Wang</a>
+    and a member of the <a href="https://gail.sdu.edu.cn/">General Artificial Intelligence Laboratory</a>. I received my Ph.D. degree in 2023 from the Institute of Automation, Chinese Academy of Sciences (CASIA), where I was affiliated with the State Key Laboratory of Multimodal Artificial Intelligence Systems, under the supervision of Prof. <a href="https://scholar.google.com.hk/citations?user=8kzzUboAAAAJ&hl=zh-CN">Liang Wang</a>
     <span class="intro-note">(NSFC Distinguished Young Scholar, IEEE Fellow)</span>, and was co-advised by
     Prof. <a href="https://scholar.google.com.hk/citations?user=qVge6YYAAAAJ&hl=zh-CN">Shu Wu</a> and
     Prof. <a href="https://scholar.google.com.hk/citations?user=D-lKLcMAAAAJ&hl=zh-CN">Qiang Liu</a>.
@@ -53,7 +53,7 @@ redirect_from:
   <h2>Research Interests</h2>
   <p>
     My current research centers on <strong>trustworthy and controllable large language models (LLMs)</strong>,
-    with particular interests in <strong>LLM agents, knowledge editing, agentic RAG, interpretability, and model safety and alignment</strong>. Previously, I have also conducted extensive research in
+    with particular interests in <strong>LLM agents, knowledge editing, agentic retrieval-augmented generation (RAG), interpretability, and model safety</strong>. Previously, I worked extensively on
     temporal knowledge graph reasoning and recommender systems.
   </p>
 </section>
@@ -63,11 +63,11 @@ redirect_from:
     <strong>招生信息 <span>Recruitment</span></strong>
     <em>Open to students</em>
   </div>
-  <p>I am always looking for self-motivated students to work on LLMs. Feel free to reach out if you are interested in pursuing a Master's degree, a Ph.D., an undergraduate research assistant position, or exploring potential collaborations.</p>
-  <p>欢迎对大模型研究感兴趣的同学（保研、考研或本科生科研助理）通过邮件与我联系，也欢迎任何形式的学术探讨与合作！</p>
+  <p>I am always looking for self-motivated students interested in research on LLMs. Feel free to reach out if you are interested in pursuing a Master's degree, a Ph.D., an undergraduate research assistant opportunity, or potential collaborations.</p>
+  <p>欢迎对大模型研究感兴趣的同学（包括保研、考研同学和本科生科研助理）通过邮件与我联系，也欢迎任何形式的学术探讨与合作！</p>
 </section>
 
-Preprint
+Preprints
 ------
 
 <div class="preprint-list">
@@ -191,7 +191,7 @@ Preprint
 <article class="publication-item">
   <h3>Dynamic Graph Collaborative Filtering.</h3>
   <p class="pub-meta"><span class="pub-venue">ICDM 2020</span><span class="pub-type">Regular Paper</span><span class="pub-rank">CCF-B</span></p>
-  <p class="pub-authors">Xiaohan Li*, <strong>Mengqi Zhang</strong>*, Shu Wu, Zheng Liu, Liang Wang, and Philip S Yu.</p>
+  <p class="pub-authors">Xiaohan Li*, <strong>Mengqi Zhang</strong>*, Shu Wu, Zheng Liu, Liang Wang, and Philip S. Yu.</p>
 </article>
 
 </div>
@@ -199,14 +199,14 @@ Preprint
 <h2 id="honors-and-awards">Honors and Awards</h2>
 
 <div class="honor-list">
-  <div><span>2026</span><p>Shandong Provincial Young Science and Technology Talent Support Project <em>山东省青年科技人才托举工程</em></p></div>
+  <div><span>2026</span><p>Shandong Provincial Young Science and Technology Talent Support Program <em>山东省青年科技人才托举工程</em></p></div>
   <div><span>2024</span><p>SIGIR Best Paper Honorable Mention <em>最佳论文提名奖</em></p></div>
   <div><span>2023</span><p>CAS Presidential Scholarship <em>中国科学院院长奖</em></p></div>
-  <div><span>2023</span><p>Beijing Outstanding Graduate Student Awards <em>北京市优秀毕业生</em></p></div>
-  <div><span>2023</span><p>University of CAS Outstanding Graduate Student Awards <em>中国科学院大学优秀毕业生</em></p></div>
+  <div><span>2023</span><p>Beijing Outstanding Graduate Student Award <em>北京市优秀毕业生</em></p></div>
+  <div><span>2023</span><p>University of Chinese Academy of Sciences Outstanding Graduate Award <em>中国科学院大学优秀毕业生</em></p></div>
 </div>
 
-<h2 id="experiences">Experiences</h2>
+<h2 id="experiences">Experience</h2>
 
 <div class="home-timeline">
 

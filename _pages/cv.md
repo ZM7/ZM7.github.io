@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experiences"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,9 +16,9 @@ Work experience
 
 Education
 ------
-**School of Artificial Intelligence, University of Chinese Academy Sciences**  
+**School of Artificial Intelligence, University of Chinese Academy of Sciences**  
 **Institute of Automation, Chinese Academy of Sciences**  
-[2019.09 -- 2023.06] &nbsp;&nbsp;&nbsp;&nbsp;  Ph.D in Computer Application Technology  
+[2019.09 -- 2023.06] &nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Computer Application Technology  
 *Advisor: Professor Liang Wang*  
 
 **School of Mathematics and Systems Science, Beihang University**  
@@ -28,7 +28,6 @@ Education
 **School of Mathematics and Computational Science, Xiangtan University**  
 [2012.09 -- 2016.06] &nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Mathematics<br>
 *Advisor: Professor Huayi Wei*  
-
 
 
 

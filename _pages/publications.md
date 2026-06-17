@@ -34,7 +34,7 @@ classes: publications-page
 </article>
 
 <article class="publication-item">
-  <h3>Aslora: Adaptive Sharing Low-Rank Adaptation Across Layers.</h3>
+  <h3>ASLoRA: Adaptive Sharing Low-Rank Adaptation Across Layers.</h3>
   <p class="pub-meta"><span class="pub-venue">Pattern Recognition 2026</span><span class="pub-rank">CCF-B</span></p>
   <p class="pub-authors">Junyan Hu, Jiao Xue, <strong>Mengqi Zhang</strong>#, Yao Chen, Zhaochun Ren, Shu Wu, Zhumin Chen, Pengjie Ren</p>
 </article>
@@ -162,7 +162,7 @@ classes: publications-page
 <article class="publication-item">
   <h3>Dynamic Graph Collaborative Filtering.</h3>
   <p class="pub-meta"><span class="pub-venue">ICDM 2020</span><span class="pub-type">Regular Paper</span><span class="pub-rank">CCF-B</span></p>
-  <p class="pub-authors">Xiaohan Li*, <strong>Mengqi Zhang</strong>*, Shu Wu, Zheng Liu, Liang Wang, and Philip S Yu.</p>
+  <p class="pub-authors">Xiaohan Li*, <strong>Mengqi Zhang</strong>*, Shu Wu, Zheng Liu, Liang Wang, and Philip S. Yu.</p>
 </article>
 
 <article class="publication-item">
