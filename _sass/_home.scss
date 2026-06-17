@@ -416,8 +416,8 @@ $home-container: 1016px;
 }
 
 .home-intro strong {
-  color: #17212b;
-  font-weight: 800;
+  color: #244f73;
+  font-weight: 650;
 }
 
 .home-intro a {
@@ -479,8 +479,8 @@ $home-container: 1016px;
 }
 
 .research-focus strong {
-  color: #17212b;
-  font-weight: 800;
+  color: #244f73;
+  font-weight: 650;
 }
 
 .home-research {
@@ -627,7 +627,8 @@ $home-container: 1016px;
 }
 
 .preprint-item .pub-authors strong {
-  color: #17212b;
+  color: #294f6f;
+  font-weight: 650;
 }
 
 .publication-list {
@@ -754,8 +755,8 @@ $home-container: 1016px;
 }
 
 .pub-authors strong {
-  color: #18242d;
-  font-weight: 800;
+  color: #294f6f;
+  font-weight: 650;
 }
 
 .featured-publication {
@@ -790,29 +791,29 @@ $home-container: 1016px;
 
 .timeline-item h3 {
   margin: 0 0 0.16rem;
-  color: #1c2a33;
+  color: #244f73;
   font-size: 0.92rem;
-  font-weight: 800;
-  line-height: 1.35;
+  font-weight: 650;
+  line-height: 1.38;
 }
 
 .timeline-item p {
   margin: 0.12rem 0 0;
-  color: #455761;
+  color: #40545f;
   font-size: 0.84rem;
-  line-height: 1.42;
+  line-height: 1.5;
 }
 
 .timeline-item p span {
   display: inline-block;
   min-width: 8.8rem;
-  color: #263740;
-  font-weight: 700;
+  color: #687884;
+  font-weight: 500;
 }
 
 .timeline-advisor {
-  color: #667781 !important;
-  font-style: italic;
+  color: #687884 !important;
+  font-style: normal;
 }
 
 .service-grid {
