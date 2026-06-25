@@ -87,8 +87,12 @@ def main() -> int:
         metrics = parse_metrics(page)
         metrics["source"] = f"https://scholar.google.com/citations?user={args.user_id}&hl=en"
     except (HTTPError, URLError, TimeoutError, subprocess.SubprocessError, ValueError) as exc:
-        print(f"Failed to update Scholar metrics: {exc}", file=sys.stderr)
-        return 1
+        print(f"Warning: failed to update Scholar metrics: {exc}", file=sys.stderr)
+        if output.exists():
+            print(f"Keeping existing metrics in {output}.")
+            return 0
+        print(f"No existing metrics file found at {output}.", file=sys.stderr)
+        return 0
 
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(json.dumps(metrics, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
