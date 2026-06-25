@@ -195,7 +195,7 @@ Preprints
 <h2 id="honors-and-awards">Honors and Awards</h2>
 
 <div class="honor-list">
-  <div><span>2026</span><p>Shandong Provincial Young Science and Technology Talent Support Program <em>山东省青年科技人才托举工程</em></p></div>
+  <div><span>2026</span><p>Shandong Provincial Young Science and Technology Talent Support Program <em>山东省青年科技人才托举工程（A类）</em></p></div>
   <div><span>2024</span><p>SIGIR Best Paper Honorable Mention <em>最佳论文提名奖</em></p></div>
   <div><span>2023</span><p>CAS Presidential Scholarship <em>中国科学院院长奖</em></p></div>
   <div><span>2023</span><p>Beijing Outstanding Graduate Student Award <em>北京市优秀毕业生</em></p></div>
