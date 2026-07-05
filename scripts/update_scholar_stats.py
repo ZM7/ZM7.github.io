@@ -9,6 +9,7 @@ import json
 import re
 import subprocess
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -79,15 +80,29 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--user-id", default=DEFAULT_USER_ID)
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
+    parser.add_argument("--retries", type=int, default=3)
+    parser.add_argument("--retry-delay", type=int, default=15)
     args = parser.parse_args()
 
     output = Path(args.output)
-    try:
-        page = fetch_profile(args.user_id)
-        metrics = parse_metrics(page)
-        metrics["source"] = f"https://scholar.google.com/citations?user={args.user_id}&hl=en"
-    except (HTTPError, URLError, TimeoutError, subprocess.SubprocessError, ValueError) as exc:
-        print(f"Warning: failed to update Scholar metrics: {exc}", file=sys.stderr)
+    last_error: Exception | None = None
+
+    for attempt in range(1, max(args.retries, 1) + 1):
+        try:
+            page = fetch_profile(args.user_id)
+            metrics = parse_metrics(page)
+            metrics["source"] = f"https://scholar.google.com/citations?user={args.user_id}&hl=en"
+            break
+        except (HTTPError, URLError, TimeoutError, subprocess.SubprocessError, ValueError) as exc:
+            last_error = exc
+            print(f"Warning: Scholar metrics fetch attempt {attempt} failed: {exc}", file=sys.stderr)
+            if attempt < max(args.retries, 1):
+                time.sleep(max(args.retry_delay, 0))
+    else:
+        metrics = None
+
+    if metrics is None:
+        print(f"Warning: failed to update Scholar metrics after {max(args.retries, 1)} attempts: {last_error}", file=sys.stderr)
         if output.exists():
             print(f"Keeping existing metrics in {output}.")
             return 0

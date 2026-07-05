@@ -2,7 +2,8 @@ name: Update Google Scholar Stats
 
 on:
   schedule:
-    - cron: "20 18 * * *"
+    # Run four times per day to keep homepage metrics reasonably fresh.
+    - cron: "17 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,7 +22,7 @@ jobs:
           python-version: "3.x"
 
       - name: Fetch Google Scholar metrics
-        run: python scripts/update_scholar_stats.py
+        run: python scripts/update_scholar_stats.py --retries 5 --retry-delay 20
 
       - name: Commit updated metrics
         run: |
