@@ -15,6 +15,8 @@ classes: publications-page
 
 <div class="publication-list full-publication-list">
 
+<h2 class="publication-year" id="year-2026">2026</h2>
+
 <article class="publication-item">
   <h3>Disentangling Knowledge Representations for Large Language Model Editing.</h3>
   <p class="pub-meta"><span class="pub-venue">ICLR 2026</span><span class="pub-rank">CCF-A</span></p>
@@ -41,9 +43,23 @@ classes: publications-page
 
 <article class="publication-item">
   <h3>Conversational Generative Retrieval with Contextual Denoising.</h3>
-  <p class="pub-meta"><span class="pub-venue">Information Processing &amp; Management</span><span class="pub-rank">CCF-B</span></p>
+  <p class="pub-meta"><span class="pub-venue">Information Processing &amp; Management 2026</span><span class="pub-rank">CCF-B</span></p>
   <p class="pub-authors">Wenhao Zhang, Yuhan Wang, Yi Bai, <strong>Mengqi Zhang</strong>#, Zhaochun Ren, Zhumin Chen, Pengjie Ren</p>
 </article>
+
+<article class="publication-item">
+  <h3>Lever Can Move the Earth: Towards Adaptive Semantic Capacity Balance for Image-Text Retrieval.</h3>
+  <p class="pub-meta"><span class="pub-venue">IEEE Transactions on Multimedia 2026</span><span class="pub-rank">CCF-A</span></p>
+  <p class="pub-authors">Junhao Xu, Zheng Liu, <strong>Mengqi Zhang</strong>, Guangyuan Dong, Zhumin Chen</p>
+</article>
+
+<article class="publication-item">
+  <h3>Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering.</h3>
+  <p class="pub-meta"><span class="pub-venue">EMNLP 2026</span><span class="pub-rank">CCF-B</span></p>
+  <p class="pub-authors">Fangan Dong, Zuming Yan, Xuri Ge, Zhiwei Xu, <strong>Mengqi Zhang</strong>, Xuanang Chen, Ben He, Xin Xin, Zhumin Chen, Ying Zhou</p>
+</article>
+
+<h2 class="publication-year" id="year-2025">2025</h2>
 
 <article class="publication-item featured-publication">
   <h3>Uncovering Overfitting in Large Language Model Editing.</h3>
@@ -81,6 +97,8 @@ classes: publications-page
   <p class="pub-authors">Yimeng Gu, <strong>Mengqi Zhang</strong>, Ignacio Castro, Shu Wu, Gareth Tyson</p>
 </article>
 
+<h2 class="publication-year" id="year-2024">2024</h2>
+
 <article class="publication-item">
   <h3>Knowledge Graph Enhanced Large Language Model Editing.</h3>
   <p class="pub-meta"><span class="pub-venue">EMNLP 2024</span><span class="pub-rank">CCF-B</span></p>
@@ -111,6 +129,8 @@ classes: publications-page
   <p class="pub-authors">Yuwei Xia, <strong>Mengqi Zhang</strong>, Qiang Liu, Liang Wang, Shu Wu, Xiaoyu Zhang.</p>
 </article>
 
+<h2 class="publication-year" id="year-2023">2023</h2>
+
 <article class="publication-item">
   <h3>Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning.</h3>
   <p class="pub-meta"><span class="pub-venue">WWW 2023</span><span class="pub-rank">CCF-A</span></p>
@@ -135,6 +155,8 @@ classes: publications-page
   <p class="pub-authors">Liping Wang, Qiang Liu, <strong>Mengqi Zhang</strong>, Yaxuan Hu, Shu Wu, and Liang Wang.</p>
 </article>
 
+<h2 class="publication-year" id="year-2022">2022</h2>
+
 <article class="publication-item">
   <h3>Latent Structure Mining with Contrastive Modality Fusion for Multimedia Recommendation.</h3>
   <p class="pub-meta"><span class="pub-venue">IEEE TKDE 2022</span><span class="pub-rank">CCF-A</span></p>
@@ -153,6 +175,8 @@ classes: publications-page
   <p class="pub-authors"><strong>Mengqi Zhang</strong>, Yanqiao Zhu, Qiang Liu, Shu Wu, and Liang Wang.</p>
 </article>
 
+<h2 class="publication-year" id="year-2020">2020</h2>
+
 <article class="publication-item">
   <h3>Personalized Graph Neural Networks with Attention Mechanism for Session-Aware Recommendation.</h3>
   <p class="pub-meta"><span class="pub-venue">IEEE TKDE 2020</span><span class="pub-rank">CCF-A</span></p>
@@ -164,6 +188,8 @@ classes: publications-page
   <p class="pub-meta"><span class="pub-venue">ICDM 2020</span><span class="pub-type">Regular Paper</span><span class="pub-rank">CCF-B</span></p>
   <p class="pub-authors">Xiaohan Li*, <strong>Mengqi Zhang</strong>*, Shu Wu, Zheng Liu, Liang Wang, and Philip S. Yu.</p>
 </article>
+
+<h2 class="publication-year" id="year-2019">2019</h2>
 
 <article class="publication-item">
   <h3>High-order Hidden Markov Model for Trend Prediction in Financial Time Series.</h3>

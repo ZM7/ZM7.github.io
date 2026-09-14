@@ -631,6 +631,20 @@ $home-container: 1016px;
   counter-reset: publication-list;
 }
 
+.full-publication-list .publication-year {
+  margin: 1.35rem 0 0.7rem;
+  padding-bottom: 0.35rem;
+  color: #244f73;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.2;
+  border-bottom: 1px solid #dfe8ee;
+}
+
+.full-publication-list .publication-year:first-child {
+  margin-top: 0.15rem;
+}
+
 .publication-note {
   display: inline-flex;
   align-items: center;
